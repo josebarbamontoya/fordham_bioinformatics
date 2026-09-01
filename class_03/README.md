@@ -1,0 +1,3 @@
+# Class 3 outline
+
+* ## Outline in progress...
