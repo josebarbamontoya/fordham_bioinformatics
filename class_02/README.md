@@ -6,4 +6,3 @@
 * ## What are biological data?
 * ## From biological question to computational analysis
 * ## Biological databases
-* ## Bioinformatics as a reproducible science
