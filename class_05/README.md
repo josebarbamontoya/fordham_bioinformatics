@@ -12,4 +12,4 @@
 
 4.- Enter the following command: `https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_05/basic_unix_commands_exercise.sh
 
--> If `wget` is not available, use `curl -0` instead
+- > If `wget` is not available, use `curl -0` instead
