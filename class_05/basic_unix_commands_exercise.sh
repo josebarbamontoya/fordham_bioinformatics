@@ -7,7 +7,7 @@
 
 ### 1 - Open a new session in either the Terminal app on your Mac or in you UNIX emulator and sign into the Secure Shell.
 ### 2 - Copy the exercise’s sample data (homo_sapiens_genome_sequences) into your home directory by copying the data directory from my public directory.
-### 3 - Check out the man page for ls.
+### 3 - Check out the man page for cat.
 ### 4 - View all files with gene in the name all at once using cat.
 ### 5 - Repeat this with the protein files.
 ### 6 - Make two new files, one with all the genes concatenated, one with all the proteins.
@@ -28,8 +28,8 @@ cd ~
 cp -r /u/erdos/jbarba/public/homo_sapiens_genome_sequences .
 cd homo_sapiens_genome_sequences
 
-### 3 - Check out the man page for ls:
-man ls
+### 3 - Check out the man page for cat:
+man cat
 #prees q to quit
 
 ### 4 - View all files with gene in the name all at once using cat:
