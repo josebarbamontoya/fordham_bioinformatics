@@ -8,8 +8,8 @@
   
 2.- Type `cd ~`
   
-3.- Enter the following command: `https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_05/basic_unix_commands_tutorial.sh`
+3.- Enter the following command: `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_05/basic_unix_commands_tutorial.sh`
 
-4.- Enter the following command: `https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_05/basic_unix_commands_exercise.sh`
+4.- Enter the following command: `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_05/basic_unix_commands_exercise.sh`
 
 > If `wget` is not available, use `curl -0` instead
