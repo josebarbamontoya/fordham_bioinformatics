@@ -4,7 +4,7 @@
 * ## Reproducibility and organization in bioinformatics
 * ## Introduction to GitHub
 
-## Instructions to download the Data Manipulation and GitHub tutorials to the home directory:
+## Instructions to download the data manipulation from the command line and GitHub tutorials to the home directory:
 1.- Open the termial
   
 2.- Type `cd ~`
