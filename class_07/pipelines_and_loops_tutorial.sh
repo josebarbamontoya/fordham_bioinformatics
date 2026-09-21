@@ -5,7 +5,7 @@
 ##### Jose Barba ##########################
 ###########################################
 
-### NOTE: replace 'jbarba' with your erdos username wherever it appears.
+### NOTE: replace 'jbarba' with your erdos username wherever it appears. Use the correect path (/u/erdos/students/username/...).
 
 ###########################
 ##### part 01 #############
