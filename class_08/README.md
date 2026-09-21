@@ -1,6 +1,6 @@
 # Class 8 outline
 
-* ## Working on remote servers
+* ## Working on coumputer servers
 * ## High-performance computing
 
 ## Class reading:
