@@ -7,7 +7,7 @@
   
 2.- Type `cd ~`
   
-3.- Enter the following command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_10/intro_to_python_for_data_analysis_tutorial.sh`
+3.- Enter the following command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_10/intro_to_python_tutorial.sh`
 
 > If `wget` is not available, use `curl -0` instead
 
