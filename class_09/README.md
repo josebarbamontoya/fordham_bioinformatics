@@ -3,7 +3,7 @@
 * ## Introduction to R for data analysis
 
 ## Instructions to download the R tutorials to the home directory:
-1.- – Open the Mac or Unix-like OS terminal
+1.- Open the Mac or Unix-like OS terminal
   
 2.- Type `cd ~`
   
@@ -11,4 +11,4 @@
 
 > If `wget` is not available, use `curl -0` instead
 
-- Windows users can manually download the tutorial from the repository
+NOTE: Windows users can manually download the tutorial from the repository
