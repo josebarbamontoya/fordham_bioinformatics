@@ -2,7 +2,7 @@
 
 * ## Introduction to Python for data processing and analysis
 
-## Instructions to download the Python tutorials to the home directory:
+## Instructions to download the Python tutorial to the home directory:
 1.- Open the terminal
   
 2.- Enter the command `cd ~`
