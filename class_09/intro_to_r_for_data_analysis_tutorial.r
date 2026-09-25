@@ -48,8 +48,8 @@ setwd("/Users/barba/Desktop/ncbi_refseq_genome_statistics")
 getwd()
 
 ### download a summary of current NCBI RefSeq genome assemblies
-system("wget https://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_refseq.txt")
-system("wget ftp://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt")
+download.file("https://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/assembly_summary_refseq.txt", "assembly_summary_refseq.txt")
+download.file("https://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt", "README_assembly_summary.txt")
 
 ### read the file to edit the table
 lines <- readLines("assembly_summary_refseq.txt")
@@ -122,7 +122,7 @@ barplot(g_data$genome_size, names.arg=g_data$organism, main="Genome size", xlab=
 barplot(g_data$genome_size[1:5], names.arg=g_data$organism[1:5], main="Genome size", xlab="Organism", ylab="Base pairs", cex.names=0.7, cex.axis=0.7, col="purple3")
 
 ### create the bar plot for the five samllest genomes
-barplot(g_data$genome_size[554590:554594], names.arg=g_data$organism[554590:554594], main="Genome size", xlab="Organism", ylab="Base pairs", cex.names=0.7, cex.axis=0.7, col="purple3")
+barplot(g_data$genome_size[554590:554594], names.arg=g_data$organism[554590:554594], main="Genome size", xlab="Organism", ylab="Base pairs", cex.names=0.7, cex.axis=0.7, col="blue4")
 
 ### create the barplot of the five largest genomes using ggplot2
 ggplot(g_data[1:5, ], aes(x = reorder(organism_name, -genome_size), y = genome_size)) +
@@ -379,8 +379,8 @@ fit <- optim.pml(fit, model = "GTR", optGamma = TRUE)
 ### plot the ML tree
 ml_tree <- fit$tree
 plot(ml_tree, main = "Maximum likelihood tree")
-nodelabels()
-edgelabels()
+#nodelabels()
+#edgelabels()
 
 ### save newick tree
 write.tree(ml_tree, file = "ml_tree.nwk")
