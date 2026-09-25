@@ -6,10 +6,14 @@
 ## Instructions to download the basic UNIX commands tutorial and exercise to the home directory:
 1.- Open the termial
   
-2.- Type `cd ~`
-  
-3.- Enter the following command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_05/basic_unix_commands_tutorial.sh`
+2.- Enter the command `cd ~`
 
-4.- Enter the following command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_05/basic_unix_commands_exercise.sh`
+3a.- Mac or Unix/Unix-like system users, enter the command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_06/basic_unix_commands_tutorial.sh`
 
-> If `wget` is not available, use `curl -0` instead
+3b.- Mac or Unix/Unix-like system users, enter the command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_06/basic_unix_commands_exercise.sh`
+
+> If `wget` is not available, use `curl -O` instead
+
+4a.- Windows users, enter the command (all in one line): `Invoke-WebRequest https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_06/basic_unix_commands_tutorial.sh -OutFile data_manipulation_tutorial.sh`
+
+4b.- Windows users, enter the command (all in one line): `Invoke-WebRequest https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_06/basic_unix_commands_exercise.sh -OutFile github_version_control_tutorial.sh`
