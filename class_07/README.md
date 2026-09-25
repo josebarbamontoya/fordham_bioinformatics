@@ -6,7 +6,7 @@
 ## Instructions to download the shell pipelines and scripting tutorials to the home directory:
 1.- Open the termial
   
-2.- enter the command `cd ~`
+2.- Enter the command `cd ~`
   
 3a.- Mac or Unix/Unix-like system users, enter the command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_07/shell_pipelines_tutorial.sh`
 
