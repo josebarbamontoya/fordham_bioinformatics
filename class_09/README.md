@@ -11,4 +11,6 @@
 
 > If `wget` is not available, use `curl -0` instead
 
-Windows users can manually download the tutorial from the repository
+3b.- Windows users: enter the following command (all in one line):
+`Invoke-WebRequest https:/raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_09/intro_to_r_for_data_analysis_tutorial.sh`
+
