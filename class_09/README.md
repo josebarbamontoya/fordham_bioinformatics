@@ -7,10 +7,10 @@
   
 2.- Enter the command `cd ~`
   
-3a.- Mac or Unix/Unix-like system users, enter the command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_09/intro_to_r_for_data_analysis_tutorial.sh`
+3a.- Mac or Unix/Unix-like system users, enter the command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_09/intro_to_r_for_data_analysis_tutorial.r`
 
 > If `wget` is not available, use `curl -0` instead
 
 3b.- Windows users, enter the command (all in one line):
-`Invoke-WebRequest https:/raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_09/intro_to_r_for_data_analysis_tutorial.sh`
+`Invoke-WebRequest https:/raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_09/intro_to_r_for_data_analysis_tutorial.r`
 
