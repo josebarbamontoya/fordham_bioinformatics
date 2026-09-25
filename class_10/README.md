@@ -11,5 +11,5 @@
 
 > If `wget` is not available, use `curl -0` instead
 
-3b.- Windows users enter the following command (all in one line):
+3b.- Windows users: enter the following command (all in one line):
 `Invoke-WebRequest https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_10/intro_to_python_tutorial.sh -OutFile intro_to_python_tutorial.sh`
