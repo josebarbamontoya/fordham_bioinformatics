@@ -11,4 +11,4 @@
 
 > If `wget` is not available, use `curl -0` instead
 
-NOTE: Windows users can manually download the tutorial from the repository
+Windows users can manually download the tutorial from the repository
