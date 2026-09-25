@@ -2,7 +2,7 @@
 
 * ## Introduction to R for data analysis
 
-## Instructions to download the R tutorials to the home directory:
+## Instructions to download the R tutorial to the home directory:
 1.- Open the terminal
   
 2.- Enter the command `cd ~`
