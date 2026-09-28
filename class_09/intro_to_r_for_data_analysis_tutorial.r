@@ -222,10 +222,8 @@ ggplot(cleaned_df, aes(x = genome_size, y = total_gene_count)) +
   theme_minimal()
 
 #######################################################
-##### create a boxplot of plant and fungi genomes #####
+##### create boxplots of genome size by group #########
 #######################################################
-
-##### create boxplots of genome size by group #####
 
 ### remove missing genome sizes
 box_data <- g_data[
@@ -281,14 +279,7 @@ densities <- lapply(groups, function(group) {
 y_max <- max(sapply(densities, function(d) max(d$y)))
 
 ### create empty plot
-plot(
-  NULL,
-  xlim = c(0, 1),
-  ylim = c(0, y_max),
-  xlab = "Proportion of protein-coding genes",
-  ylab = "Density",
-  main = "Protein-coding gene proportion by group"
-)
+plot(NULL, xlim = c(0, 1), ylim = c(0, y_max), xlab = "Proportion of protein-coding genes", ylab = "Density", main = "Protein-coding gene proportion by group")
 
 ### add density curves
 for (i in seq_along(groups)) {
@@ -475,4 +466,3 @@ ggplot(data.frame(nj_bl, ml_bl), aes(x = nj_bl, y = ml_bl)) +
     x = "NJ branch lengths",
     y = "ML branch lengths"
   )
-
