@@ -24,7 +24,8 @@ packages = [
     "biopython",
     "dendropy",
     "pandas",
-    "statsmodels"
+    "statsmodels",
+    "Bio"
 ]
 
 subprocess.check_call(
