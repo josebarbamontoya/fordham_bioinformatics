@@ -1,6 +1,6 @@
 # Class 15 outline
 
-* ## - Getting data from public databases/repositories
+* ## Getting data from public databases/repositories
 
 ## Instructions to download the NCBI data retrieval tutorial to the home directory:
 1.- Open the terminal
