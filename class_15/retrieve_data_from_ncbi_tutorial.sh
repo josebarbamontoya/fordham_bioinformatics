@@ -88,7 +88,7 @@ datasets download genome accession "$accession" \
 ### extract the archive into a new directory
 unzip GCF_000001215.4.zip -d GCF_000001215.4
 
-### see te rosophila melanogaster reference  genome data files
+### see te Drosophila melanogaster reference  genome data files
 ls -lh GCF_000001215.4/ncbi_dataset/data/GCF_000001215.4/
 
 ### count the number of RNA sequences
@@ -133,27 +133,29 @@ mkdir Drosophila_m_raw_reads
 cd Drosophila_m_raw_reads
 
 ### fetch FASTQ reads for Drosophila melanogaster
-fasterq-dump SRR29479670
+fasterq-dump SRR40747365
+
+fasterq-dump SRR40747365 
 
 ### count the number of reads in the FASTQ files
-wc -l < SRR29479670_1.fastq | awk '{print $1/4}'
-wc -l < SRR29479670_2.fastq | awk '{print $1/4}'
+wc -l < SRR40747365_1.fastq | awk '{print $1/4}'
+wc -l < SRR40747365_2.fastq | awk '{print $1/4}'
 
 ### see the content of a FASTQ file
-less SRR29479670_1.fastq
+less SRR40747365_1.fastq
 ### type q to exit
 
 ### compress the FASTQ files to reduce disk space usage
-gzip SRR29479670_1.fastq &
-gzip SRR29479670_2.fastq &
+gzip SRR40747365_1.fastq &
+gzip SRR40747365_2.fastq &
 
 ### see the contents of a compressed FASTQ file
-gzip -dc SRR29479670_2.fastq.gz | less
+gzip -dc SRR40747365_2.fastq.gz | less
 ### type q to exit
 
 ### count the number of reads in the compressed FASTQ files
-gzip -dc SRR29479670_1.fastq.gz | wc -l | awk '{print $1/4}'
-gzip -dc SRR29479670_2.fastq.gz | wc -l | awk '{print $1/4}'
+gzip -dc SRR40747365_1.fastq.gz | wc -l | awk '{print $1/4}'
+gzip -dc SRR40747365_2.fastq.gz | wc -l | awk '{print $1/4}'
 
 ### optional: open the interactive Toolkit configuration menu
 vdb-config -i
