@@ -2,7 +2,7 @@
 
 * ## Sequence alignment
 
-## Instructions to download the MAFFT Multiple Sequence Alignment tutorial to your home directory:
+## Instructions to download the MAFFT multiple sequence alignment tutorial to your home directory:
 1.- Open the terminal
   
 2.- Enter the command `cd ~`
