@@ -2,7 +2,7 @@
 
 * ## Processing NGS reads: QC, trimming, and filtering
 
-## Instructions to download the QC of NGS reads with fastp tutorial to your home directory:
+## Instructions to download the QC and processing of NGS reads with fastp tutorial to your home directory:
 1.- Open the terminal
   
 2.- Enter the command `cd ~`
