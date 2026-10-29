@@ -15,6 +15,6 @@
 `Invoke-WebRequest https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_19/abyss_and_transabyss_tutorial.sh -OutFile abyss_and_transabyss_tutorial.sh`
 
 ## Class reading:
-The present and future of de novo whole-genome assembly. Sohn & Nam 2018.
+The present and future of de novo whole-genome assembly. Sohn & Nam. 2018.
   https://academic.oup.com/bib/article/19/1/23/2339783
   
