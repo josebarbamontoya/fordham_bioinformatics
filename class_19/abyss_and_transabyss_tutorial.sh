@@ -15,12 +15,12 @@ cd ~
 ### copy the sample fastq reads to the current directory (.)
 cp -r /u/erdos/jbarba/public/genome_transcriptome_assembly .
 
+### if you get a permission denied error, copy the sample fastq reads to the current directory (.) using the following command:
+#cp -r /u/erdos/jbarba/genome_transcriptome_assembly .
+
 ################################################################################
 ##### install abyss and transabyss in the bioinformatics conda environment #####
 ################################################################################
-
-### if you get a permission denied error, copy the sample fastq reads to the current directory (.) using the following command:
-#cp -r /u/erdos/jbarba/genome_transcriptome_assembly .
 
 ### if you have not yet created a conda python environment for the bioinformatics class, create one using the following command. Otherwise, proceed to the next step:
 #conda create -n bioinformatics python=3.14.7
