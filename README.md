@@ -1,3 +1,5 @@
+<p style="text-align:center;"><img src="bioinformatics_venn_diagram.jpg" height="300" width="300"></p>
+
 # Fordham University — CISC 4020 L01 Bioinformatics Course
 * ### Materials for the Fordham University course: CISC 4020 L1 Bioinformatics
 * ### Instructor: Jose Barba
