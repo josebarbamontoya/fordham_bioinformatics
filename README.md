@@ -1,4 +1,4 @@
-<p align="center"><img src="bioinformatics_venn_diagram.jpg" height="300" width="300"></p>
+<p align="center"><img src="bioinformatics_venn_diagram.jpg" height="200" width="200"></p>
 
 # Fordham University — CISC 4020 L01 Bioinformatics Course
 * ### Materials for the Fordham University course: CISC 4020 L1 Bioinformatics
