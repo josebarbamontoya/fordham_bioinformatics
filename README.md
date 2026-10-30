@@ -10,4 +10,4 @@
 ### The course begins with the fundamentals of UNIX/Linux operating systems and working on remote servers. Students then learn to use programming languages and tools, including Shell, Python, and R, to explore and manipulate data from the command line. The course advances to the use of algorithms, databases, and computational methods for managing and analyzing data, allowing the students to design their own data analysis pipeline. Class time focuses on hands-on demonstration and lab exercises designed for the students to fully incorporate the skills they are learning. For further details, refer to the [course syllabus](https://github.com/josebarbamontoya/fordham_bioinformatics/blob/main/Syllabus_Bioinf_CISC_4020_L01_F26_Barba_2026_09_21.pdf).
 
 ---
-I hope you find this repository useful. For comments and questions please e-mail jbarbamomntoya@fordham.edu
+I hope you find this repository useful. For comments and questions please e-mail jbarbamontoya@fordham.edu
