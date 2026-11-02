@@ -15,6 +15,5 @@
 `Invoke-WebRequest https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_20/augustus_tutorial.sh -OutFile augustus_tutorial.sh`
 
 ## Class reading:
-The present and future of de novo whole-genome assembly. Sohn & Nam. 2018.
-  https://academic.oup.com/bib/article/19/1/23/2339783
-  
+Ten steps to get started in genome assembly and annotation. Dominguez et al. 2024.
+  https://f1000research.com/articles/7-148/v1
