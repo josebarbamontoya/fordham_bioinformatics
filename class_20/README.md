@@ -1,8 +1,8 @@
 # Class 20 outline
 
-* ## Structural annotation of genome and transcriptome
+* ## Structural annotation of genomes and transcriptomes
 
-## Instructions to download the structural annotation of genome and transcriptomes tutorial using AUGUSTUS to your home directory:
+## Instructions to download the structural annotation of genomes and transcriptomes tutorial using AUGUSTUS to your home directory:
 1.- Open the terminal
   
 2.- Enter the command `cd ~`
