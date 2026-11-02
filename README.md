@@ -1,7 +1,7 @@
 <p align="center"><img src="bioinformatics_venn_diagram.jpg" height="250" width="250"></p>
 
 # Fordham University — CISC 4020 L01 Bioinformatics Course
-* ### Materials for the Fordham University course: CISC 4020 L1 Bioinformatics
+* ### Materials for the Fordham University course: CISC 4020 L01 Bioinformatics
 * ### Instructor: Jose Barba
 * ### Classes meet Mondays and Thursdays from 16:00 to 17:15 in classroom LL 602, from August 27 to December 14, 2026
 
