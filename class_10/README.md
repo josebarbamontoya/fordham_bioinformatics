@@ -1,4 +1,4 @@
-# Class 10 outline
+# Class 10
 
 * ## Introduction to Python for data processing and analysis
 
