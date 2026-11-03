@@ -1,4 +1,4 @@
-# Class 19 outline
+# Class 19
 
 * ## Genome and transcriptome assembly
 
