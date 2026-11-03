@@ -1,4 +1,4 @@
-# Class 20 outline
+# Class 20
 
 * ## Structural annotation of genomes and transcriptomes
 
