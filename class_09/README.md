@@ -1,4 +1,4 @@
-# Class 9 outline
+# Class 9
 
 * ## Introduction to R for data analysis
 
