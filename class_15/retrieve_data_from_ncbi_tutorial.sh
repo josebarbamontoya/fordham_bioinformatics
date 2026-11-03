@@ -82,7 +82,7 @@ accession=GCF_000001215.4
 
 ### download the reference genome and associated annotation files
 datasets download genome accession "$accession" \
-  --include gff3,rna,cds,protein,genome,seq-report \
+  --include genome,gff3,gtf,gbff,rna,cds,protein,seq-report \
   --filename "${accession}.zip"
 
 ### extract the archive into a new directory
