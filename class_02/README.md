@@ -1,12 +1,6 @@
-# Class 2 outline
+# Class 2
 
-* ## What is bioinformatics?
-* ## A brief history of bioinformatics
-* ## Why bioinformatics matters?
-* ## What are biological data?
-* ## From biological question to computational analysis
-* ## Biological databases
-
+* ## Introduction to Bioinformatics
 
 ## Class reading:
 A brief history of bioinformatics. Gauthier et al. 2020. 
