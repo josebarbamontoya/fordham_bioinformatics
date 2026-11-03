@@ -1,4 +1,4 @@
-# Class 6 outline
+# Class 6
 
 * ## Data manipulation from the command line
 * ## Reproducibility and organization in bioinformatics
