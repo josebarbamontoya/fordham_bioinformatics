@@ -1,4 +1,4 @@
-# Class 5 outline
+# Class 5
 
 * ## Introduction to UNIX and UNIX-like operating systems and the terminal
 * ## Basic UNIX commands
