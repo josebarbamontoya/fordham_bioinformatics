@@ -1,4 +1,4 @@
-# Class 18 outline
+# Class 18
 
 * ## Introduction to BLAST and BLAST+
 
