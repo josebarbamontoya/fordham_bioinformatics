@@ -1,4 +1,4 @@
-# Class 14 outline
+# Class 14
 
 * ## DNA seqencing methods
 
