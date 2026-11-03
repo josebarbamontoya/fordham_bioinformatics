@@ -1,4 +1,4 @@
-# Class 7 outline
+# Class 7
 
 * ## Introduction to shell pipelines
 * ## Scripting and automation
