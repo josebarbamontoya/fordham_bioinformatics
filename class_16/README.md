@@ -1,4 +1,4 @@
-# Class 16 outline
+# Class 16
 
 * ## Processing NGS reads: QC, trimming, and filtering
 
