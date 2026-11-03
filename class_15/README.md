@@ -1,4 +1,4 @@
-# Class 15 outline
+# Class 15
 
 * ## Getting data from public databases/repositories
 
