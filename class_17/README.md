@@ -1,4 +1,4 @@
-# Class 17 outline
+# Class 17
 
 * ## Sequence alignment
 
