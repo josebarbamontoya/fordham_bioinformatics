@@ -12,7 +12,7 @@ ssh erdos_username@erdos.dsm.fordham.edu
 cd ~
 
 ### copy the genome_annotation_augustus directory to the current directory (.)
-cp -r /u/erdos/jbarba/public/structurtal_genome_annotation_augustus .
+cp -r /u/erdos/jbarba/public/structural_genome_annotation_augustus .
 
 ### activate the bioinformatics conda environment (required every time you use abyss or augustus on erdos)
 conda activate bioinformatics
@@ -25,7 +25,7 @@ conda install -c bioconda -c conda-forge augustus seqkit gffread gffcompare
 ############################################################################
 
 ### change to the Drosophila melanogaster genome directory
-cd ~/structurtal_genome_annotation_augustus/drosophila_melanogaster
+cd ~/structural_genome_annotation_augustus/drosophila_melanogaster
 
 ### display basic statistics of the whole genome assembly (number of sequences and length)
 seqkit stats GCF_000001215.4_Release_6_plus_ISO1_MT_genomic.fna
@@ -70,7 +70,7 @@ tail -n +2 chr4_vs_ncbi.chr4_augustus.gff3.tmap | cut -f3 | sort | uniq -c | sor
 ########################################################################
 
 ### change to the Drosophila simulans genome directory
-cd ~/structurtal_genome_annotation_augustus/drosophila_simulans
+cd ~/structural_genome_annotation_augustus/drosophila_simulans
 
 ### display basic statistics of the whole genome assembly (number of sequences and length)
 seqkit stats GCF_016746395.2_Prin_Dsim_3.1_genomic.fna
