@@ -17,7 +17,7 @@ cp -r /u/erdos/jbarba/public/structurtal_genome_annotation_augustus .
 ### activate the bioinformatics conda environment (required every time you use abyss or augustus on erdos)
 conda activate bioinformatics
 
-### install stuff
+### install the tools for structural annotation
 conda install -c bioconda -c conda-forge augustus seqkit gffread gffcompare 
 
 ############################################################################
