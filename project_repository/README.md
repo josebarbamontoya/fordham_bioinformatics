@@ -31,7 +31,7 @@ The tutorial in the GitHub repository must include the following:
 
 There is no length requirement, but the tutorial must be detailed enough for anyone to fully reproduce your analysis by following it.
 
-## Work Groups ##
+# Work Groups
 
 | Name                    | Group |
 |-------------------------|:-----:|
