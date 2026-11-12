@@ -31,3 +31,23 @@ The tutorial in the GitHub repository must include the following:
 
 There is no length requirement, but the tutorial must be detailed enough for anyone to fully reproduce your analysis by following it.
 
+## Work Groups
+
+name	work groups
+Kamil Rampatsingh	1
+Zain Akhtar	1
+Alayna Cantrell	2
+Angel Cordova	2
+Marcelle Vaval	2
+Averi Schirmers	3
+Michelle Kordov	3
+Sofia Hernandez-Suarez	3
+Andres Gonzalez	4
+Eva Merhi	4
+Saptarshi Banik	4
+Meghan Cegielski	5
+Patrick Biernat	5
+Rowan Luzzi	5
+Patch Shields	6
+Sam Watson	6
+Theda Wilkens	6
