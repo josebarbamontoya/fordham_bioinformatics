@@ -1,13 +1,33 @@
+# Final Project Repository
 
-# Project repository
+## Overview
 
-* ## Instructions and data to create a project GitHub repository
+The goal of the final project is to give you hands-on experience formulating a well-defined research question that can be addressed with -omics data, selecting appropriate computational methods, and building a fully documented, reproducible analysis pipeline.
 
-The main goal of these projects is to provide students with hands-on experience developing well-formulated research questions that can be addressed using -omics data, selecting appropriate computational methods, and creating fully documented and reproducible computational pipelines.
-Students will work in groups of three. Each group will receive a dataset and instructions outlining the required analyses one month before the project deadline. Groups will formulate a research question, select and implement appropriate computational methods, develop the necessary analysis pipeline, and create a detailed tutorial documenting the computational steps and workflow.
-The project repository will consist of a detailed tutorial, which will be shared on the student’s GitHub account. Throughout the course, students will work incrementally to complete the project, adding and testing new steps to the pipeline as they are introduced in class. Each work group will deliver a 10-minute presentation on their project. The presentation will account for 30% of the project repository grade. The submitted GitHub tutorial/repository must meet the following requirements:
-1)	An “about” section explaining the research goal, why the specific approach presented was chosen, and any alternatives that should be considered. If alternative approaches were tested and rejected, this should be described.
-2)	For every step of the analysis, provide a description of the tool being used, the available options, any caveats to using the tool, and the exact command used in the project. Even trivial steps like text/data manipulations should be documented.
-3)	Where relevant, elaborate on any challenges encountered, whether trivial or significant.
-4)	A brief bibliography of citations for the computational tools used.
-5)	There is no length requirement for the resulting document, but it must be detailed enough for anyone to fully reproduce your research using the tutorial. It must clearly describe all necessary steps.
+## Instructions
+1. **Work in groups of three.** Groups were formed at the beginning of the course.
+2. **Obtain your dataset.** Each group will download a dataset from this repository, along with instructions outlining the required analyses.
+3. **Design and carry out the analysis.** Each group will:
+   - formulate a research question that the dataset can address;
+   - select and justify appropriate computational methods;
+   - develop and run the analysis pipeline;
+   - write a detailed tutorial documenting every computational step and the overall workflow.
+4. **Create the project repository.** Each group will create a GitHub repository. The repository will host the tutorial, together with the scripts and supporting files needed to reproduce the analysis.
+5. **Present the project.** Each group will deliver a 10-minute presentation on their project. The presentation accounts for 30% of the final project grade.
+
+## Repository Requirements
+
+The tutorial in the GitHub repository must include the following:
+  
+  1. **About section.** State the research goal, explain why you chose the approach presented, and describe alternative approaches that could be considered. If you tested and rejected any alternatives, explain why.
+  2. **Step-by-step documentation.** Document every step of the analysis, including simple text and data manipulations. For each step, provide:
+     - a description of the tool used;
+     - the relevant options available;
+     - any caveats to using the tool;
+     - the exact command used in the project.
+  3. **Challenges.** Describe any challenges you encountered, whether minor or significant, and how you resolved them.
+  4. **Bibliography.** Provide a brief list of citations for the computational tools used.
+  5. **Use of AI tools.** Explicitly report any use of AI tools in the project. State which tools were used, for which tasks (such as writing or debugging code), and how you verified their output. If no AI tools were used, state this.
+
+There is no length requirement, but the tutorial must be detailed enough for anyone to fully reproduce your analysis by following it.
+
