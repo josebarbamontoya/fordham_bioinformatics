@@ -5,7 +5,7 @@
 The goal of the final project is to give you hands-on experience formulating a well-defined research question that can be addressed with -omics data, selecting appropriate computational methods, and building a fully documented, reproducible analysis pipeline.
 
 ## Instructions
-1. **Work in your assigned group.** See [Work Groups](#work-groups) below.
+1. **Work in your assigned group.** See [Work Groups](<b>Work-Groups</b>) below.
 2. **Obtain your dataset.** Each group will download a dataset from this repository, along with instructions outlining the required analyses.
 3. **Design and carry out the analysis.** Each group will:
    - Formulate a research question that the dataset can address
