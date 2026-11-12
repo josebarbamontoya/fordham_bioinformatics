@@ -6,9 +6,9 @@ The goal of the final project is to give you hands-on experience formulating a w
 
 ## Instructions
 1. **Work in your assigned group.** See work groups below.
-2. **Obtain your dataset.** Each group will download a dataset from this repository, along with instructions outlining the required analyses.
+2. **Obtain your dataset.** Each group will download a dataset of five orthologous loci from ten mammal species, obtained from the OrthoMaM database, along with instructions outlining the required analyses, from this repository.
 3. **Design and carry out the analysis.** Each group will:
-   - Formulate a research question that the dataset can address
+   - Formulate a research question that can be addressed with the dataset and the required analyses
    - Select and justify appropriate computational methods
    - Develop and run the analysis pipeline
    - Write a detailed tutorial documenting every computational step and the overall workflow
