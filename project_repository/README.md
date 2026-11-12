@@ -5,7 +5,7 @@
 The goal of the final project is to give you hands-on experience formulating a well-defined research question that can be addressed with -omics data, selecting appropriate computational methods, and building a fully documented, reproducible analysis pipeline.
 
 ## Instructions
-1. **Work in groups of three.** Groups were formed at the beginning of the course.
+1. **Work in your assigned group.** See [Work Groups](#work-groups) below.
 2. **Obtain your dataset.** Each group will download a dataset from this repository, along with instructions outlining the required analyses.
 3. **Design and carry out the analysis.** Each group will:
    - Formulate a research question that the dataset can address
@@ -33,21 +33,22 @@ There is no length requirement, but the tutorial must be detailed enough for any
 
 ## Work Groups
 
-name	work groups
-Kamil Rampatsingh	1
-Zain Akhtar	1
-Alayna Cantrell	2
-Angel Cordova	2
-Marcelle Vaval	2
-Averi Schirmers	3
-Michelle Kordov	3
-Sofia Hernandez-Suarez	3
-Andres Gonzalez	4
-Eva Merhi	4
-Saptarshi Banik	4
-Meghan Cegielski	5
-Patrick Biernat	5
-Rowan Luzzi	5
-Patch Shields	6
-Sam Watson	6
-Theda Wilkens	6
+| Name                    | Group |
+|-------------------------|:-----:|
+| Kamil Rampatsingh       | 1     |
+| Zain Akhtar             | 1     |
+| Alayna Cantrell         | 2     |
+| Angel Cordova           | 2     |
+| Marcelle Vaval          | 2     |
+| Averi Schirmers         | 3     |
+| Michelle Kordov         | 3     |
+| Sofia Hernandez-Suarez  | 3     |
+| Andres Gonzalez         | 4     |
+| Eva Merhi               | 4     |
+| Saptarshi Banik         | 4     |
+| Meghan Cegielski        | 5     |
+| Patrick Biernat         | 5     |
+| Rowan Luzzi             | 5     |
+| Patch Shields           | 6     |
+| Sam Watson              | 6     |
+| Theda Wilkens           | 6     |
