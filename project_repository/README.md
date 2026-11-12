@@ -6,7 +6,7 @@ The goal of the final project is to give you hands-on experience formulating a w
 
 ## Instructions
 1. **Work in your assigned group.** See work groups below.
-2. **Obtain your dataset.** Each group will download a dataset of five orthologous loci from ten mammal species, obtained from the OrthoMaM database, along with instructions outlining the required analyses, from this repository.
+2. **Obtain your dataset.** Each group will download a dataset of five orthologous loci from ten mammal species, obtained from the [OrthoMaM database](https://orthomam.mbb.cnrs.fr/orthomam_v4/), along with instructions outlining the required analyses, from this repository.
 3. **Design and carry out the analysis.** Each group will:
    - Formulate a research question that can be addressed with the dataset and the required analyses
    - Select and justify appropriate computational methods
@@ -52,3 +52,9 @@ There is no length requirement, but the tutorial must be detailed enough for any
 | Patch Shields           | 6     |
 | Sam Watson              | 6     |
 | Theda Wilkens           | 6     |
+
+## References
+
+Allio R, Delsuc F, Belkhir K, Douzery EJP, Ranwez V, Scornavacca C. 2024. OrthoMaM v12: a database of curated single-copy ortholog alignments and trees to study mammalian evolutionary genomics. *Nucleic Acids Research* 52(D1): D529–D535. https://doi.org/10.1093/nar/gkad834
+
+OrthoMaM database: https://orthomam.mbb.cnrs.fr/orthomam_v4/
