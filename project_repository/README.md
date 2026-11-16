@@ -13,8 +13,8 @@ The goal of the bioinformatics project is to give you hands-on experience formul
    - Select and justify appropriate computational methods
    - Develop and run the analysis pipeline
    - Write a detailed tutorial documenting every computational step and the overall workflow
-4. **Create the project repository.** Each group will create a GitHub repository. The repository will host the tutorial, together with the scripts and supporting files needed to reproduce the analysis.
-5. **Present the project.** Each group will deliver a 10-minute presentation on their project. The presentation accounts for 30% of the final project grade.
+4. **Create the project repository.** Each group will create a GitHub repository. The repository will host the tutorial, together with the scripts and supporting files needed to reproduce the analysis. The repository must be completed by December 7, by 2:00 pm.
+5. **Present the project.** Each group will deliver a 10-minute presentation on their project during class on December 7. The presentation accounts for 30% of the final project grade.
 
 ## Species and Reference Phylogeny
 
