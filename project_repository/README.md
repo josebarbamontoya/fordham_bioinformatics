@@ -24,7 +24,7 @@ The dataset includes the following ten mammal species:
 
 The figure below shows the OrthoMaM species tree for all mammals in the database.
 
-![OrthoMaM species tree](orthomam_tree.jpg)
+<img src="orthomam_tree.jpg" alt="OrthoMaM species tree" width="500">
 
 ## Required Analyses
 
