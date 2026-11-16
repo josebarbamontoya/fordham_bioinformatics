@@ -22,11 +22,11 @@ The dataset includes the following ten mammal species:
 
 *Ornithorhynchus anatinus*, *Monodelphis domestica*, *Dasypus novemcinctus*, *Loxodonta africana*, *Tursiops truncatus*, *Canis familiaris*, *Myotis brandtii*, *Pongo abelii*, *Tupaia belangeri*, and *Mus musculus*.
 
-The figure below shows the OrthoMaM species tree for all mammals in the database.
-
 <p align="center">
   <img src="orthomam_tree.jpg" alt="OrthoMaM species tree" width="500">
 </p>
+
+**Figure 1.** Species tree of the mammals included in OrthoMaM v12, inferred from the gene trees of single-copy orthologous coding sequences in the database.
 
 ## Required Analyses
 
