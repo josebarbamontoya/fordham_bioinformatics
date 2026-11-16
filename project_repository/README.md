@@ -16,6 +16,16 @@ The goal of the bioinformatics project is to give you hands-on experience formul
 4. **Create the project repository.** Each group will create a GitHub repository. The repository will host the tutorial, together with the scripts and supporting files needed to reproduce the analysis.
 5. **Present the project.** Each group will deliver a 10-minute presentation on their project. The presentation accounts for 30% of the final project grade.
 
+## Species and Reference Phylogeny
+
+The dataset includes the following ten mammal species:
+
+*Ornithorhynchus anatinus*, *Monodelphis domestica*, *Dasypus novemcinctus*, *Loxodonta africana*, *Tursiops truncatus*, *Canis familiaris*, *Myotis brandtii*, *Pongo abelii*, *Tupaia belangeri*, and *Mus musculus*.
+
+The figure below shows the OrthoMaM species tree for all mammals in the database.
+
+orthomam_tree.jpg
+
 ## Required Analyses
 
 Each group will complete the following analyses with its ten loci. Examples of tools are given in parentheses, but you may use any appropriate tool, provided you justify your choice in the tutorial.
