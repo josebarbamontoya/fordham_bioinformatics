@@ -1,7 +1,7 @@
-# Group 1 Dataset
+# Group 1 dataset
 
 Members: Kamil Rampatsingh, Zain Akhtar
 
-This directory contains the ten gene sequence files for Group 1, in FASTA format.
+This directory contains unaligned sequences of ten genes from ten mammal species for Group 1, in FASTA format.
 
 See the [project instructions](../README.md) for the required analyses.
