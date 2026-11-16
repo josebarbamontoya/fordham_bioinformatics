@@ -18,7 +18,7 @@ The goal of the bioinformatics project is to give you hands-on experience formul
 
 ## Species and Reference Phylogeny
 
-The project dataset includes ten of the mammal species in OrthoMaM: *Ornithorhynchus anatinus*, *Monodelphis domestica*, *Dasypus novemcinctus*, *Loxodonta africana*, *Tursiops truncatus*, *Canis familiaris*, *Myotis brandtii*, *Pongo abelii*, *Tupaia belangeri*, and *Mus musculus*.
+The project dataset includes ten mammal species from OrthoMaM: *Ornithorhynchus anatinus*, *Monodelphis domestica*, *Dasypus novemcinctus*, *Loxodonta africana*, *Myotis brandtii*, *Tursiops truncatus*, *Canis familiaris*, *Tupaia belangeri*, *Mus musculus*, and *Pongo abelii*.
 
 <p align="center">
   <img src="orthomam_tree.jpg" alt="OrthoMaM species tree" width="500">
