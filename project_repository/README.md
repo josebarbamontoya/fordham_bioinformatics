@@ -48,7 +48,7 @@ The tutorial in the GitHub repository must include the following:
    - A description of the tool used
    - The relevant options available
    - Any caveats to using the tool
-   - The exact command used in the project
+   - The command used
 3. **Challenges.** Describe any challenges you encountered, whether minor or significant, and how you resolved them.
 4. **Bibliography.** Provide a brief list of citations for the computational tools used.
 5. **Use of AI tools.** Explicitly report any use of AI tools in the project. State which tools were used, for which tasks (such as writing or debugging code), and how you verified their output. If no AI tools were used, state this.
