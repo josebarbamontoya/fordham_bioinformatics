@@ -4,7 +4,7 @@
 
 The goal of the bioinformatics project is to give you hands-on experience formulating a well-defined research question that can be addressed with genomic data, selecting appropriate computational methods, and building a fully documented, reproducible analysis pipeline.
 
-## Instructions
+## Project Instructions
 
 1. **Work in your assigned group.** See work groups below.
 2. **Obtain your dataset.** Each group will download a dataset of ten orthologous loci from ten mammal species, obtained from the [OrthoMaM database](https://orthomam.mbb.cnrs.fr/orthomam_v4/), along with instructions outlining the required analyses, from this repository.
@@ -28,7 +28,7 @@ The dataset includes the following ten mammal species:
 
 **Figure 1.** Species tree of the mammals included in OrthoMaM v12 (Allio et al., 2024), inferred from the gene trees of single-copy orthologous coding sequences in the database.
 
-## Required Analyses
+## Analysis Instructions
 
 Each group will complete the following analyses with its ten loci. Examples of tools are given in parentheses, but you may use any appropriate tool, provided you justify your choice in the tutorial.
 
