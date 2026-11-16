@@ -24,7 +24,7 @@ The project dataset includes ten mammal species from OrthoMaM: *Ornithorhynchus 
   <img src="orthomam_tree.jpg" alt="OrthoMaM species tree" width="500">
 </p>
 
-**Figure 1.** Species tree of the mammals included in OrthoMaM v12 (Allio et al., 2024), inferred from the gene trees of single-copy orthologous coding sequences in the database.
+**Figure 1.** Species tree of the mammals included in OrthoMaM v11a (Allio et al., 2022), inferred from the gene trees of single-copy orthologous coding sequences in the database.
 
 ## Analysis Instructions
 
