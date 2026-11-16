@@ -37,7 +37,7 @@ Each group will complete the following analyses with its ten loci. Examples of t
 5. **Infer a concatenated ML tree.** Concatenate the ten alignments into a single supermatrix and infer an ML tree, using a partitioned analysis with the best-fitting model for each partition (for example, IQ-TREE with a partition file). Report the log-likelihood of the concatenated ML tree.
 6. **Infer a species tree under the multispecies coalescent.** Use the ten ML gene trees from step 4 to estimate a species tree (for example, ASTRAL).
 7. **Plot the trees.** Plot the concatenated ML tree and the ASTRAL species tree, rooted with the outgroup *Ornithorhynchus anatinus* and showing branch support values (for example, FigTree, or plotting libraries in R or Python).
-8. **Compare the trees and discuss.** Compare the two trees and identify any nodes where they differ (for example, using the Robinson–Foulds distance). Discuss possible reasons for any differences, such as incomplete lineage sorting, gene tree estimation error, limited phylogenetic signal in individual loci, or model choice. If the trees agree, discuss why.
+8. **Compare the trees and discuss.** Root both trees using *Ornithorhynchus anatinus* (platypus) as the outgroup. Compare the two trees and identify any nodes where they differ, for example by calculating the Robinson–Foulds (RF) distance. Discuss possible causes of any differences, such as incomplete lineage sorting, gene tree estimation error, limited phylogenetic signal in individual loci, or model choice. If the trees agree, discuss why that might be the case.
 
 ## Repository Requirements
 
