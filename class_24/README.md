@@ -7,9 +7,9 @@
   
 2.- Enter the command `cd ~`
   
-3a.- Mac or Unix/Unix-like system users, enter the command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_23/phylogenomic_analysis_tutorial.sh`
+3a.- Mac or Unix/Unix-like system users, enter the command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_24/phylogenomic_analysis_tutorial.sh`
 
 > If `wget` is not available, use `curl -O` instead
 
 3b.- Windows users, enter the command (all in one line):
-`Invoke-WebRequest https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_23/phylogenomic_analysis_tutorial.sh -OutFile phylogenomic_analysis_tutorial.sh`
+`Invoke-WebRequest https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_24/phylogenomic_analysis_tutorial.sh -OutFile phylogenomic_analysis_tutorial.sh`
