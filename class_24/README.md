@@ -2,7 +2,7 @@
 
 * ## Phylogenetic inference from NGS data II
 
-## Instructions to download the phylogomic analysis tutorial using IQ-Tree and ASTRAL to your home directory:
+## Instructions to download the phylogomic analysis tutorial using IQ-TREE and ASTRAL to your home directory:
 1.- Open the terminal
   
 2.- Enter the command `cd ~`
