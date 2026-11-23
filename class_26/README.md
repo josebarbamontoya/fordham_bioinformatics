@@ -3,21 +3,21 @@
 * ## Machine learning in bioinformatics
 
 ## Instructions to download the SNPs PCA analysis example using scikit-learn to your home directory:
-1.- Open the terminal
+1.- Open the terminal (Windows users: open PowerShell)
 
 2.- Enter the command `cd ~`
 
-3a.- Mac or Unix/Unix-like system users, enter the command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_26/snp_pca_analysis.zip`
+3a.- Mac or Unix/Unix-like system users, enter the command (all in one line): `wget https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_26/snp_pca_analysis_scikit-learn.zip`
 
 > If `wget` is not available, use `curl -O` instead of `wget`
 
-3b.- Windows users, enter the command (all in one line): `Invoke-WebRequest https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_26/snp_pca_analysis.zip -OutFile snp_pca_analysis.zip`
+3b.- Windows users, enter the command (all in one line): `Invoke-WebRequest https://raw.githubusercontent.com/josebarbamontoya/fordham_bioinformatics/main/class_26/snp_pca_analysis_scikit-learn.zip -OutFile snp_pca_analysis_scikit-learn.zip`
 
-4a.- Mac or Unix/Unix-like system users, unzip the directory: `unzip snp_pca_analysis.zip`
+4a.- Mac or Unix/Unix-like system users, unzip the directory: `unzip snp_pca_analysis_scikit-learn.zip`
 
-4b.- Windows users, unzip the directory: `tar -xf snp_pca_analysis.zip`
+4b.- Windows users, unzip the directory: `tar -xf snp_pca_analysis_scikit-learn.zip`
 
-## The `snp_pca_analysis.zip` file contains the `snp_pca_analysis` directory with four files:
+## The `snp_pca_analysis_scikit-learn.zip` file contains the `snp_pca_analysis_scikit-learn` directory with four files:
 
 * `snp_pca_analysis_scikit-learn.sh`: step-by-step commands to run the analysis on the erdos server.
 
@@ -31,4 +31,4 @@
   * `pca_top_snps.csv`: the 10 SNPs with the largest loadings on PC1 and on PC2, with the mean genotype in each population
   * `pca_snp_plot.png`: plot of PC1 versus PC2 and the scree plot
 
-To run the analysis: `python3 pca_snp.py snp_genotypes.csv`
+To run the analysis, change to the directory and run the script: `cd snp_pca_analysis_scikit-learn` and then `python3 pca_snp.py snp_genotypes.csv`
