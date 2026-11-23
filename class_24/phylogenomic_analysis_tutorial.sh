@@ -183,6 +183,9 @@ awk -v m=$max '{printf "%d\t%d\t%.3f\t%d\t%.3f\n", NR, $1, $1/m, $2, $2/m}' >> l
 
 cat locus_tree_rf.tsv
 
+### deactivate the conda environment
+conda deactivate
+
 ####################################################
 ##### transfer phylogenomic_analysis directory #####
 ####################################################
