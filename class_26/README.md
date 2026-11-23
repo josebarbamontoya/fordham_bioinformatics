@@ -17,7 +17,7 @@
 
 4b.- Windows users, unzip the directory: `tar -xf snp_pca_analysis_scikit-learn.zip`
 
-## The `snp_pca_analysis_scikit-learn.zip` file contains the `snp_pca_analysis_scikit-learn` directory with four files:
+## The `snp_pca_analysis_scikit-learn.zip` file contains four files:
 
 * `snp_pca_analysis_scikit-learn.sh`: step-by-step commands to run the analysis on the erdos server.
 
